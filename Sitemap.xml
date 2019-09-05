@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 xmlns:mobile="http://www.baidu.com/schemas/sitemap-mobile/1/">
 <url>
- <loc>http://www.houyaoming.top</loc>
+ <loc>https://www.houyaoming.top</loc>
  <mobile:mobile type="pc,mobile" />
  <priority>0.5</priority>
  <lastmod>2019-09-05</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.houyaoming.top/index.html</loc>
+ <loc>https://www.houyaoming.top/index.html</loc>
  <mobile:mobile type="pc,mobile" />
  <priority>0.5</priority>
  <lastmod>2019-09-05</lastmod>
@@ -121,7 +121,7 @@ xmlns:mobile="http://www.baidu.com/schemas/sitemap-mobile/1/">
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.houyaoming.top/generic.html</loc>
+ <loc>https://www.houyaoming.top/generic.html</loc>
  <mobile:mobile type="pc,mobile" />
  <priority>0.5</priority>
  <lastmod>2019-09-05</lastmod>
