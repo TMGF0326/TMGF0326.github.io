@@ -5,154 +5,168 @@ xmlns:mobile="http://www.baidu.com/schemas/sitemap-mobile/1/">
  <loc>http://www.houyaoming.top</loc>
  <mobile:mobile type="pc,mobile" />
  <priority>0.5</priority>
- <lastmod>2019-09-04</lastmod>
+ <lastmod>2019-09-05</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
  <loc>http://www.houyaoming.top/index.html</loc>
  <mobile:mobile type="pc,mobile" />
  <priority>0.5</priority>
- <lastmod>2019-09-04</lastmod>
+ <lastmod>2019-09-05</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://houyaoming.top/images/hulianwanba.jpg</loc>
+ <loc>https://houyaoming.top/images/hulianwanba.jpg</loc>
  <mobile:mobile type="pc,mobile" />
  <priority>0.5</priority>
- <lastmod>2019-09-04</lastmod>
+ <lastmod>2019-09-05</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
  <loc>https://jq.qq.com/?_wv=1027&amp;k=5rou41j</loc>
  <mobile:mobile type="pc,mobile" />
  <priority>0.5</priority>
- <lastmod>2019-09-04</lastmod>
+ <lastmod>2019-09-05</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
  <loc>https://weibo.com/2788978973/profile?topnav=1&amp;wvr=6&amp;is_all=1</loc>
  <mobile:mobile type="pc,mobile" />
  <priority>0.5</priority>
- <lastmod>2019-09-04</lastmod>
+ <lastmod>2019-09-05</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
  <loc>https://read.douban.com/column/31382049/</loc>
  <mobile:mobile type="pc,mobile" />
  <priority>0.5</priority>
- <lastmod>2019-09-04</lastmod>
+ <lastmod>2019-09-05</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.houyaoming.top/20190903.html</loc>
+ <loc>https://www.houyaoming.top/20190903.html</loc>
  <mobile:mobile type="pc,mobile" />
  <priority>0.5</priority>
- <lastmod>2019-09-04</lastmod>
+ <lastmod>2019-09-05</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.houyaoming.top/20190903.html</loc>
+ <loc>https://www.houyaoming.top/20190903.html</loc>
  <mobile:mobile type="pc,mobile" />
  <priority>0.5</priority>
- <lastmod>2019-09-04</lastmod>
+ <lastmod>2019-09-05</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.houyaoming.top/20190903.html</loc>
+ <loc>https://www.houyaoming.top/20190903.html</loc>
  <mobile:mobile type="pc,mobile" />
  <priority>0.5</priority>
- <lastmod>2019-09-04</lastmod>
+ <lastmod>2019-09-05</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.houyaoming.top/20190904.html</loc>
+ <loc>https://www.houyaoming.top/20190904.html</loc>
  <mobile:mobile type="pc,mobile" />
  <priority>0.5</priority>
- <lastmod>2019-09-04</lastmod>
+ <lastmod>2019-09-05</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.houyaoming.top/20190904.html</loc>
+ <loc>https://www.houyaoming.top/20190904.html</loc>
  <mobile:mobile type="pc,mobile" />
  <priority>0.5</priority>
- <lastmod>2019-09-04</lastmod>
+ <lastmod>2019-09-05</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://www.houyaoming.top/20190905.html</loc>
+ <mobile:mobile type="pc,mobile" />
+ <priority>0.5</priority>
+ <lastmod>2019-09-05</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://www.houyaoming.top/20190905.html</loc>
+ <mobile:mobile type="pc,mobile" />
+ <priority>0.5</priority>
+ <lastmod>2019-09-05</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
  <loc>https://s.mmmiin.club/ro9j3pe</loc>
  <mobile:mobile type="pc,mobile" />
  <priority>0.5</priority>
- <lastmod>2019-09-04</lastmod>
+ <lastmod>2019-09-05</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://houyaoming.top/images/hulianwanba.jpg</loc>
+ <loc>https://houyaoming.top/images/hulianwanba.jpg</loc>
  <mobile:mobile type="pc,mobile" />
  <priority>0.5</priority>
- <lastmod>2019-09-04</lastmod>
+ <lastmod>2019-09-05</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.houyaoming.top/faka/faka.html</loc>
+ <loc>https://www.houyaoming.top/faka/faka.html</loc>
  <mobile:mobile type="pc,mobile" />
  <priority>0.5</priority>
- <lastmod>2019-09-04</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>http://www.houyaoming.top</loc>
- <mobile:mobile type="pc,mobile" />
- <priority>0.5</priority>
- <lastmod>2019-09-04</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>http://www.houyaoming.top/generic.html</loc>
- <mobile:mobile type="pc,mobile" />
- <priority>0.5</priority>
- <lastmod>2019-09-04</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>http://www.houyaoming.top/20190903.html</loc>
- <mobile:mobile type="pc,mobile" />
- <priority>0.5</priority>
- <lastmod>2019-09-04</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>http://www.houyaoming.top/20190904.html</loc>
- <mobile:mobile type="pc,mobile" />
- <priority>0.5</priority>
- <lastmod>2019-09-04</lastmod>
+ <lastmod>2019-09-05</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
  <loc>https://www.houyaoming.top</loc>
  <mobile:mobile type="pc,mobile" />
  <priority>0.5</priority>
- <lastmod>2019-09-04</lastmod>
+ <lastmod>2019-09-05</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>http://www.houyaoming.top/generic.html</loc>
+ <mobile:mobile type="pc,mobile" />
+ <priority>0.5</priority>
+ <lastmod>2019-09-05</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://www.houyaoming.top/20190903.html</loc>
+ <mobile:mobile type="pc,mobile" />
+ <priority>0.5</priority>
+ <lastmod>2019-09-05</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://www.houyaoming.top/20190904.html</loc>
+ <mobile:mobile type="pc,mobile" />
+ <priority>0.5</priority>
+ <lastmod>2019-09-05</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://www.houyaoming.top</loc>
+ <mobile:mobile type="pc,mobile" />
+ <priority>0.5</priority>
+ <lastmod>2019-09-05</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
  <loc>https://github.com/</loc>
  <mobile:mobile type="pc,mobile" />
  <priority>0.5</priority>
- <lastmod>2019-09-04</lastmod>
+ <lastmod>2019-09-05</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
  <loc>https://html5up.net/</loc>
  <mobile:mobile type="pc,mobile" />
  <priority>0.5</priority>
- <lastmod>2019-09-04</lastmod>
+ <lastmod>2019-09-05</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.houyaoming.top/sitemap.html</loc>
+ <loc>https://www.houyaoming.top/sitemap.html</loc>
  <mobile:mobile type="pc,mobile" />
  <priority>0.5</priority>
- <lastmod>2019-09-04</lastmod>
+ <lastmod>2019-09-05</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 </urlset>
